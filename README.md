@@ -1,6 +1,6 @@
 ### 👋 Hello
 
-I develop Micro SaaS and bootstrapping my own eCommerce projects in 🇺🇦. I share on [Twitter]([https://www.google.com](https://twitter.com/stringerua) how I develop projects.
+I develop Micro SaaS and bootstrapping my own eCommerce projects in 🇺🇦. I share on [Twitter](https://twitter.com/stringerua) how I develop projects.
 
 🛠️ Full-stack dev using Laravel and React.
 
