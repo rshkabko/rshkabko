@@ -1,4 +1,6 @@
-### Hi there 👋
+### 👋 Hello
+
+I develop Micro SaaS and bootstrapping my own eCommerce projects in 🇺🇦.
 
 <!--
 **rshkabko/rshkabko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
