@@ -7,6 +7,7 @@ I develop [Micro SaaS](https://flamix.solutions/) and bootstrapping my own eComm
 I share on [Twitter](https://twitter.com/stringerua) how I develop projects.
 
 🛠️ Full-stack dev using Laravel and React.
+📦 My [packages](https://packagist.org/packages/flamix/)
 
 
 
