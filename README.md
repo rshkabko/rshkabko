@@ -6,7 +6,7 @@ I develop [Micro SaaS](https://flamix.solutions/) and bootstrap my own eCommerce
 
 I share on [Twitter](https://twitter.com/stringerua) how I develop projects.
 
-- 🛠️ Full-stack dev using Laravel and React.
+- 🛠️ Full-stack dev. Use Laravel and React.
 - 👨‍💻 I develop CMS plugins for [WordPress](https://profiles.wordpress.org/flamix/#content-plugins), [Opencart](https://www.opencart.com/index.php?route=marketplace/extension&filter_search=flamix) and other CMS.
 - 📦 My [packages](https://packagist.org/packages/flamix/).
 
