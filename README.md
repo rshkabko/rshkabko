@@ -2,7 +2,7 @@
 
 ### 👋 Hello
 
-I develop [Micro SaaS](https://flamix.solutions/) and bootstrapping my own eCommerce projects in 🇺🇦.
+I develop [Micro SaaS](https://flamix.solutions/) and bootstrap my own eCommerce projects in 🇺🇦.
 
 I share on [Twitter](https://twitter.com/stringerua) how I develop projects.
 
