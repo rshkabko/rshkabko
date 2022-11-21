@@ -10,7 +10,7 @@ I share on [Twitter](https://twitter.com/stringerua) how I develop projects.
 - 👨‍💻 I develop CMS plugins for [WordPress](https://profiles.wordpress.org/flamix/#content-plugins), [Opencart](https://www.opencart.com/index.php?route=marketplace/extension&filter_search=flamix) and other CMS.
 - 📦 My [packages](https://packagist.org/packages/flamix/).
 
-📫 I take on interesting projects, especially those related to CRM or Finance, feel free to [contact me](https://flamix.solutions/about/contacts.php).
+📫 I take on interesting projects, especially those related to CRM or Fintech, feel free to [contact me](https://flamix.solutions/about/contacts.php).
 
 
 <!--
