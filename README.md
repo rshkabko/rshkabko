@@ -2,11 +2,11 @@
 
 ### 👋 Hello
 
-I develop [Micro SaaS](https://flamix.solutions/) and bootstrap my own eCommerce projects in 🇺🇦.
+I develop [Micro SaaS](https://flamix.solutions/), CTO and co-owner at [Wezoree.com](https://wezoree.com/), and bootstrap my own eCommerce projects in 🇺🇦.
 
 I share on [𝕏](https://x.com/stringerua) how I develop projects.
 
-- 🛠️ Full-stack certified Laravel dev. Also use Alpine.js, Livewire and AWS.
+- 🛠️ Full-stack certified Laravel dev. Also, use Livewire and AWS.
 - 👨‍💻 I develop CMS plugins for [WordPress](https://profiles.wordpress.org/flamix/#content-plugins), [Opencart](https://www.opencart.com/index.php?route=marketplace/extension&filter_search=flamix) and other CMS.
 - 📦 My [packages](https://packagist.org/packages/flamix/).
 
